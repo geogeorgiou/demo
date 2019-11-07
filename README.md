@@ -1,2 +1,3 @@
-# demo
-Just a demo repo for Git
+# Test
+
+This is just a test repo
